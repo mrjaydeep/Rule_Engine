@@ -9,7 +9,10 @@ The **Rule Engine with Abstract Syntax Tree (AST)** application allows users to 
 - **Modular Architecture**: Divides functionality into separate Python files, each responsible for specific tasks, enhancing maintainability and clarity.
 - **Dynamic Rule Evaluation**: Supports dynamic rule creation and evaluation, making the engine adaptable to changing business needs.
 
+
 ## Application Structure
+
+```plaintext
 rule_engine/
 ├── play.py         # Main script that executes the rule engine and interacts with users
 ├── sol.py          # Contains functions for rule parsing, evaluation, and execution of rules
