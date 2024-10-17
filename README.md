@@ -25,6 +25,7 @@ Clone the repository to your local machine:
 git clone https://github.com/mrjaydeep/rule_engine.git
 cd rule_engine
 
+##Run the main script:
 python play.py
 
 ## To run the unit tests, execute the following command:
@@ -41,4 +42,3 @@ Rule Evaluation Result: True
 4. Copy and paste the above content into the text area.
 5. Commit the new file to the main branch.
 
-This README provides a comprehensive overview of your project, including setup instructions, design choices, and usage, which will help other users understand and contribute to your project effectively!
